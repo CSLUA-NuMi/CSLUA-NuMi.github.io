@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Лекция №1. Общая характеристика турбоустановок ТЭС и АЭС  火电厂和核电厂汽轮机组的一般特性</title>
+      <link href="/2023/10/25/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-%E2%84%961-%D0%9E%D0%B1%D1%89%D0%B0%D1%8F-%D1%85%D0%B0%D1%80%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0-%D1%82%D1%83%D1%80%D0%B1%D0%BE%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BE%D0%BA-%D0%A2%D0%AD%D0%A1-%D0%B8-%D0%90%D0%AD%D0%A1-%E7%81%AB%E7%94%B5%E5%8E%82%E5%92%8C%E6%A0%B8%E7%94%B5%E5%8E%82%E6%B1%BD%E8%BD%AE%E6%9C%BA%E7%BB%84%E7%9A%84%E4%B8%80%E8%88%AC%E7%89%B9%E6%80%A7/"/>
+      <url>/2023/10/25/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-%E2%84%961-%D0%9E%D0%B1%D1%89%D0%B0%D1%8F-%D1%85%D0%B0%D1%80%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0-%D1%82%D1%83%D1%80%D0%B1%D0%BE%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BE%D0%BA-%D0%A2%D0%AD%D0%A1-%D0%B8-%D0%90%D0%AD%D0%A1-%E7%81%AB%E7%94%B5%E5%8E%82%E5%92%8C%E6%A0%B8%E7%94%B5%E5%8E%82%E6%B1%BD%E8%BD%AE%E6%9C%BA%E7%BB%84%E7%9A%84%E4%B8%80%E8%88%AC%E7%89%B9%E6%80%A7/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Лекция-№1-Общая-характеристика-турбоустановок-ТЭС-и-АЭС-火电厂和核电厂汽轮机组的一般特性"><a href="#Лекция-№1-Общая-характеристика-турбоустановок-ТЭС-и-АЭС-火电厂和核电厂汽轮机组的一般特性" class="headerlink" title="Лекция №1. Общая характеристика турбоустановок ТЭС и АЭС  火电厂和核电厂汽轮机组的一般特性"></a>Лекция №1. Общая характеристика турбоустановок ТЭС и АЭС  火电厂和核电厂汽轮机组的一般特性</h1><h2 id="1-1-Классификация-электрических-станций-电厂分类"><a href="#1-1-Классификация-электрических-станций-电厂分类" class="headerlink" title="1.1 Классификация электрических станций  电厂分类"></a>1.1 Классификация электрических станций  电厂分类</h2><p>​    Основу современной энергетики составляют технологии трансформации энергии различных природных ее источников. В настоящее время в мире наиболее широко представлена теплоэнергетика (тепловые электростанции - ТЭС), базирующаяся на источниках органического происхождения (уголь, газ, нефть). В последние десятилетия активно развивалась и атомная энергетика с использованием реакторов на тепловых нейтронах (водоводяные энергетические реакторы ВВЭР и реакторы большой мощности канальные РБМК), а в РФ и на основе реакторов с быстрыми нейтронами (БН-600, БН-800). В атомных электростанциях (АЭС) первичным источником энергии является ядерное топливо. </p><p>​        <em>现代能源的基础是将各种天然能源中的能量进行转化的技术。目前，世界上最广泛的火力发电厂（热电厂- ТЭС）是基于有机来源的资源（煤、天然气、石油）。在过去的几十年里，使用热中子反应堆（ВВЭР和РБМК）和基于快中子反应堆（БН-600、БН-800）的射频核电一直在积极发展。在核电站（АЭС），能源的主要来源是核燃料。</em></p><p>​    В зависимости от вида вырабатываемой энергии различают <strong>конденсационные</strong> (для производства электрической энергии) и <strong>теплофикационные</strong> (для производства электрической и тепловой энергий) электростанции. Первые из них (КЭС) принято называть ГРЭС - Государственные районные электростанции, а вторые – ТЭЦ - теплоэлектроцентрали. Все шире находит применение парогазовая технология, на основе которой формируются <strong>парогазовые установки</strong> (ПГУ). В них наряду с паротурбинными используются газотурбинные установки (ГТУ). Кроме того, электрическую энергию вырабатывают следующие виды электростанций: ГЭС – гидравлические; ГАЭС – гидроаккумулирующие; ВЭС – ветряные; СЭС – солнечные; ПЭС – приливные; ГеоТЭС – геотермальные.  </p><p>​        <em>根据产生的能源类型，有<strong>冷凝式</strong>（用于生产电能）和<strong>供热式</strong>（用于生产电能和热能）发电厂。第一种发电站被称为国家地区发电站，第二种发电站被称为热电厂。随着蒸汽技术的应用越来越广泛，在此基础上形成了<strong>蒸汽燃气装置</strong>。 除了使用蒸汽轮机外，还使用燃气轮机。此外，以下类型的发电厂提供电力：水力发电站；蓄水式水力发电站；风力发电站；太阳能发电站；潮汐能发电站；地热能发电站。</em> </p><h2 id="1-2-Обозначения-паровых-турбин-汽轮机的名称"><a href="#1-2-Обозначения-паровых-турбин-汽轮机的名称" class="headerlink" title="1.2 Обозначения паровых турбин  汽轮机的名称"></a>1.2 Обозначения паровых турбин  汽轮机的名称</h2><p>​    В технологической цепочке выработки электроэнергии как на ТЭС, так и АЭС применяются паровые турбины. Паровые турбины относятся к классу турбомашин (turbo - вихрь, вращение) - лопастные машины, действие которых основано на преобразовании тепловой (потенциальной) энергии рабочей среды в механическую работу вращающегося вала (паровые и газовые турбины). К классу турбомашин относят также компрессоры, вентиляторы и насосы, в которых осуществляется процесс преобразования механической формы энергии (роторов, рабочих колес) в потенциальную энергию среды.  </p><p>​        <em>蒸汽轮机在热电厂和核电厂的发电技术流程中都有应用。蒸汽轮机属于涡轮机——叶轮机，其作用是将工作介质的热（势）能转化为转轴的机械功（蒸汽和燃气轮机）。涡轮机类还包括压气机、风机和泵，将（转子、叶轮的）机械能转化为工作介质的势能。</em> </p><h3 id="关于汽轮机的标记："><a href="#关于汽轮机的标记：" class="headerlink" title="关于汽轮机的标记："></a>关于汽轮机的标记：</h3><p><strong>К</strong>  –  конденсационная</p><p><strong>Т</strong>  –  теплофикационная с регулируемым отопительным отбором водяного пара</p><p><strong>ПТ</strong> –  теплофикационная с производственным и отопительным регулируемыми отборами пара</p><p><strong>КТ</strong> –  конденсационная с отопительным нерегулируемым отбором пара</p><p><strong>ТК</strong>  –  теплофикационная с отопительным отбором и большой конденсационной мощностью</p><p><strong>Р</strong> –  с противодавлением</p><p><strong>П</strong>  –  теплофикационная с производственным отбором пара для промышленного потребления</p><p>K – 冷凝式</p><p>T – 带有可调节蒸汽抽汽供暖型号</p><p>ПТ – 带有可调节蒸汽抽汽供暖和生产型号</p><p>КТ – 冷凝式的带有不可调节的蒸汽抽汽供暖型号</p><p>ТК – 带有抽汽供暖和大功率冷凝式的型号</p><p>Р – 背压式</p><p>П – 工业用供暖蒸汽生产型号</p><h3 id="汽轮机标记使用方法"><a href="#汽轮机标记使用方法" class="headerlink" title="汽轮机标记使用方法"></a>汽轮机标记使用方法</h3><h4 id="基本用法："><a href="#基本用法：" class="headerlink" title="基本用法："></a>基本用法：</h4><p>Тип <strong>型号</strong> + Эл. Мощность, NЭ, MBт <strong>功率</strong> + Давление пара на входе p0, MПа (кгс&#x2F;cм2 ранее) <strong>出口蒸汽压力</strong> + Модификация <strong>变体</strong> + Завод изготовитель <strong>制造商</strong></p><h4 id="特别说明："><a href="#特别说明：" class="headerlink" title="特别说明："></a>特别说明：</h4><p>对于ПТ和Р型号的汽轮机标记，在出口蒸汽压力后可以加上<strong>指标蒸汽压力</strong>（показатели давления пара рn）其表征了向用户供热的提取。表示方法：p0&#x2F;pn</p><p>而对于K型号的汽轮机标记，在出口蒸汽压力后可以加上<strong>转子速度</strong>（Скорость вращения ротора）</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 课程学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 莫动课程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2022/06/14/hello-world/"/>
+      <url>/2022/06/14/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
